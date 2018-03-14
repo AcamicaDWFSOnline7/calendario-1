@@ -2,7 +2,7 @@
 
 ## Introducción
 
-* [Semana 0 - Introducción a Internet](/semana-0.md)
+* [Semana 0 - Introducción a Internet](/semana-00.md)
 
 ## Trabajo Práctico 1 - CV Online
 
