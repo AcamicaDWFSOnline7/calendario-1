@@ -1,10 +1,17 @@
-# Wiki DWFS Microcentro
+<div style="float: right; padding-top: 1.85em;">
+  <img style="width: 3em" src="assets/acamica.jpg">
+</div>
 
-## Introducción
+# Acámica DWFS Wiki <span style="font-weight: normal; font-size: 0.8em; color: grey;">Sede Centro</span>
 
-* [Semana 0 - Introducción a Internet](/semana-00.md)
+Reforzá tu proceso de aprendizaje! 💪
 
-## Trabajo Práctico 1 - CV Online
+En la **wiki** vas a encontrar una **reseña de todas las clases** por semana, con **artículos y bibliografía recomendada** por cada tema, así como también **actividades** aplicadas en clase. También vas a encontrar información sobre los **proyectos activos**, y un listado de los **ejercicios extra** que vamos compartiendo. 
 
-* [Semana 1 - Martes - Introducción a HTML](/semana-01-martes.md)
-* [Semana 1 - Jueves - Introducción a CSS y agrupamiento de elementos HTML](/semana-01-jueves.md)
+<h4>¡Empezá a navegarla! 👨‍💻</h4>
+
+## Secciones
+
+* 📅[Calendario de semanas](calendario.md)
+* 📈[Proyectos](calendario.md)
+* 🏋[Actividades y ejercicios](calendario.md)
