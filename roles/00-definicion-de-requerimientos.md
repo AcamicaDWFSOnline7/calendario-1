@@ -3,6 +3,7 @@
 En nuestro primer paso como clientes, vamos a definir una serie de requerimientos que necesitamos para que un equipo de profesionales realice nuestro sitio web. Este equipo nos sugirió incluir algunos elementos y funcionalidades, por lo cual debemos asegurarnos de que nuestro pedido las cumpla, más allá de los que nosotros querramos agregar.
 
 ----
+
 ## Requerimientos a definir
 
 * Una home! Con header y footer
