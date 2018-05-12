@@ -1,5 +1,5 @@
 <div style="float: right; padding-top: 1.85em;">
-  <img style="width: 3em" src="assets/acamica.jpg">
+  <img style="width: 3em" src="/assets/acamica.jpg">
 </div>
 
 # Acámica DWFS Wiki <span style="font-weight: normal; font-size: 0.8em; color: grey;">Sede Centro</span>
@@ -28,5 +28,7 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 
 
 ### Trabajo Práctico 3 - CV Online
+
+* [**Semana 9**](semana-09.md) <small>8 y 10 de mayo</small>
 
 

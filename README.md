@@ -12,5 +12,5 @@ En la **wiki** vas a encontrar una **reseña de todas las clases** por semana, c
 
 ## Secciones
 
-* 📅[Calendario de semanas](calendario.md)
+* 📅[Calendario de semanas](semanas/calendario.md)
 * 📈[Proyectos y Ejercicios](proyectos-y-ejercicios.md)
