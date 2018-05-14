@@ -1,8 +1,6 @@
-<div style="float: right; padding-top: 1.85em;">
-  <img style="width: 3em" src="assets/acamica.jpg">
-</div>
+<img src="/assets/acamica.jpg">
 
-# Acámica DWFS Wiki <span style="font-weight: normal; font-size: 0.8em; color: grey;">Sede Centro</span>
+# Acámica DWFS Wiki | Sede Centro
 
 Reforzá tu proceso de aprendizaje! 💪
 

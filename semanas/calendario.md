@@ -19,16 +19,18 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 
 * [Semana 0 - Introducción a Internet](/semana-00.md)
 
-### Trabajo Práctico 1 - CV Online
-
-* [Semana 1 - Martes - Introducción a HTML](/semana-01-martes.md)
-* [Semana 1 - Jueves - Introducción a CSS y agrupamiento de elementos HTML](/semana-01-jueves.md)
-
 ### Trabajo Práctico 2 - HomeBanking -->
 
+### Trabajo Práctico 1 - CV Online
+
+* [**Semana 2**](semana-02.md) 📆 <small>13 y 15 de marzo</small>
+* [**Semana 2**](semana-03.md) 📆 <small>20 y 22 de marzo</small>
 
 ### Trabajo Práctico 3 - CV Online
 
-* [**Semana 9**](semana-09.md) <small>8 y 10 de mayo</small>
+* [**Semana 8**](semana-08.md) 📆 <small>3 de mayo</small>
+* [**Semana 9**](semana-09.md) 📆 <small>8 y 10 de mayo</small>
 
+----
 
+[Home](/readme.md)
