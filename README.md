@@ -1,8 +1,6 @@
-<div style="float: right; padding-top: 1.85em;">
-  <img style="width: 3em" src="assets/acamica.jpg">
-</div>
+<img src="/assets/acamica.jpg">
 
-# Acámica DWFS Wiki <span style="font-weight: normal; font-size: 0.8em; color: grey;">Sede Centro</span>
+# Acámica DWFS Wiki | Sede Centro
 
 Reforzá tu proceso de aprendizaje! 💪
 
@@ -12,5 +10,5 @@ En la **wiki** vas a encontrar una **reseña de todas las clases** por semana, c
 
 ## Secciones
 
-* 📅[Calendario de semanas](calendario.md)
+* 📅[Calendario de semanas](semanas/calendario.md)
 * 📈[Proyectos y Ejercicios](proyectos-y-ejercicios.md)
