@@ -14,7 +14,7 @@ En la segunda hora comenzamos a trabajar con la **primera tarea técnica del pro
 
 ### 👩‍💻 Módulos y unidades relacionados
 
-* [CSS: Layout y Grilla | Unidad 1 | Unidades de medida](https://www.acamica.com/clases/3987/css-layout-grilla/introduccion-a-unidades-de-medida)
+* [**CSS: Layout y Grilla | Unidad 1 | Unidades de medida**](https://www.acamica.com/clases/3987/css-layout-grilla/introduccion-a-unidades-de-medida)
 
 ### 🕵️ Bibliografía recomendada
 
@@ -25,20 +25,20 @@ Incluímos recomendaciones oficiales de las **recomendaciones de la W3C** así c
 **Documentación técnica**
 
 * 📄&nbsp;[**W3C Standards | CSS Values and Units Module Level 3**](https://www.w3.org/TR/css-values/)&nbsp;Candidate Recommendation de W3C sobre unidades y valores.
-* 📄&nbsp;[**W3C Standards | Distance Units: the `<length>` type**](https://www.w3.org/TR/css-values/#lengths)&nbsp;Párrafo sobre unidades de medida de distancia.
-* 📄&nbsp;[**MDN | CSS - `<length>` (unidades de distancia)**](https://developer.mozilla.org/es/docs/Web/CSS/length)&nbsp;Documentación en español de Mozilla MDN.
+* 📄&nbsp;[**W3C Standards | Distance Units: the `<length>` type**](https://www.w3.org/TR/css-values/#lengths)&nbsp;⚠️Párrafo sobre unidades de medida de distancia.
+* 📄&nbsp;[**MDN | CSS - `<length>` (unidades de distancia)**](https://developer.mozilla.org/es/docs/Web/CSS/length)⚠️&nbsp;Documentación en español de Mozilla MDN.
 
 **Libros**
 
-* 📚&nbsp;[**Eric Meyer - Values, Units, and Colors**](http://shop.oreilly.com/product/0636920027621.do)&nbsp;[Eric Meyer](https://meyerweb.com/) es uno de los autores más reconocidos sobre estándares web. Ha escrito una serie de libros técnicos sobre distintos aspectos del lenguaje CSS en un formato amigable para todos los niveles. En este caso, sobre el uso de unidades y valores.
+* 📚&nbsp;[**Eric Meyer - Values, Units, and Colors**](http://shop.oreilly.com/product/0636920027621.do)&nbsp;Libro de [Eric Meyer](https://meyerweb.com/) sobre el uso de unidades y valores.
 
 **Artículos** 
 
-* 📰&nbsp;[**Librosweb.es | Introducción a CSS | Unidades de medida**](http://librosweb.es/libro/css/capitulo_3/unidades_de_medida.html)&nbsp;Contiene una buena descripción del uso de unidades relativas y absolutas.
+* 📰&nbsp;[**Librosweb.es | Introducción a CSS | Unidades de medida**](http://librosweb.es/libro/css/capitulo_3/unidades_de_medida.html)⚠️&nbsp;Contiene una buena descripción del uso de unidades relativas y absolutas.
 
 **Videos**
 
-* 📺&nbsp;[**Las Unidades de Medida en CSS**](https://www.youtube.com/watch?v=55aWwVGEae4")</a>&nbsp;Contiene una buena ejemplificación sobre el uso de `em` y `rem`.
+* 📺&nbsp;[**Las Unidades de Medida en CSS**](https://www.youtube.com/watch?v=55aWwVGEae4")</a>⚠️&nbsp;Contiene una buena ejemplificación sobre el uso de `em` y `rem`.
 * 📺&nbsp;[**¿Cómo funcionan vh & vw en CSS?. Unidades relativas al viewport.**](https://www.youtube.com/watch?v=D6gQJB0D2g8")&nbsp;Explica el uso de estas nuevas unidades en CSS3 con ejemplos sencillos.
 
 <!--
@@ -46,6 +46,12 @@ Incluímos recomendaciones oficiales de las **recomendaciones de la W3C** así c
 
 *  -->
 
-### 🤓 Espacio hackers
+---
 
-* <a href="https://medium.com/@Cryptacular/why-is-css-so-hard-for-programmers-a10d7e282620" target="_blank">**Why is CSS so hard for programmers?**</a>&nbsp;
+### 🤓 Soft Skills
+
+* [**Why is CSS so hard for programmers?**](https://medium.com/@Cryptacular/why-is-css-so-hard-for-programmers-a10d7e282620) ⚠️
+
+----
+
+[Home](/readme.md) - [Calendario](/semanas/calendario.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
