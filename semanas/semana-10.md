@@ -38,6 +38,8 @@ Continuamos con la revisión hasta completar todos los puntos de la guía. Luego
 
 ### 🤓 Soft Skills
 
+Les compartimos algunos artículos relacionados a la charla que surgió el martes sobre nuestro progreso y dificultades que se han presentado.
+
 * [Don't learn to code. Learn to think.](https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/)️️⚠️
 * [7 adversidades que tienes que superar en tus inicios como programador](https://www.campusmvp.es/recursos/post/7-adversidades-que-tienes-que-superar-en-tus-inicios-como-programador.aspx)
 * [6 consejos para que tu vida como programador sea más fácil](http://blog.desafiolatam.com/6-consejos-para-que-tu-vida-como-programador-sea-mas-facil/)
