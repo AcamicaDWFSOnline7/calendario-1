@@ -6,8 +6,6 @@
 
 ### Jueves 3 de Mayo
 
-#### 🔴 Reseña
-
 Comenzamos trabajando en grupo con el **proyecto [Roles](/roles/roles.md) agregando [requerimientos](/roles/definicion-de-requerimientos.md)** como clientes. Una vez terminada esa etapa, pasamos a **[relevar el proyecto recibido](/roles/01-relevamiento-de-requerimientos.md)** por otro grupo, validar que los requerimientos hayan sido especificados correctamente, y comenzar a **detallar las tareas técnicas** que, según lo que analizamos, creemos que llevaremos adelante.
 
 En la segunda hora comenzamos a trabajar con la **primera tarea técnica del proyecto**: [Maquetado de grilla](/roles/maquetado-de-grilla.md). En ese contexto vimos la utilización de **unidades de medida absolutas y relativas**.
