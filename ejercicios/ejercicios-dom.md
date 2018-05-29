@@ -1,15 +1,18 @@
-# Ejercicio 1
+# Ejercicios: Document Object Model
+
+## Cambiando el logo
 
 - Abri www.google.com en Chrome o Firefox y abri la consola.
 - Encontrá el logo de Google y guardalo en una variable.
 - Modifica la fuente del logo IMG para que sea el logo de Yahoo.
 - Encontrá el botón de búsqueda de Google y guardalo en una variable.
-- Modifica el texto del botón para que diga "¡Yahooo!".
+- Modifica el texto del botón para que diga "¡Yahoo!".
 
-# Ejercicio 2
+## Quiénes somos
 Vamos a crear una seccion "Sobre Nosotros"
 
 - Crea este HTML y guardalo como "aboutme.html":
+
 ```
 <! DOCTYPE html>
 <html>
@@ -36,7 +39,7 @@ Vamos a crear una seccion "Sobre Nosotros"
 - Itera a través de cada li y cambia la clase a "list-item". Agrega un estilo que haga que la clase "list-item" tenga color rojo.
 - Crea una imagen y establece que su atributo source sea una imagen tuya. Añadi ese elemento a la página.
 
-# Ejercicio 3
+## Librería
 
 Vamos a crear una pagina para tener un registro de los libros que estamos leyendo y que queremos leer.
 
@@ -45,6 +48,6 @@ Vamos a crear una pagina para tener un registro de los libros que estamos leyend
 - Crea un array de objetos libro (Este tiene titulo, autor, imagen de portada y leido si/no).
 - Itera a través del array de libros. Para cada libro, crea un `<p>` con el título y el autor del libro y añadilo a la página.
 
-Plus : usa una lista para mostrar los libros.
-Plus : agrega una propiedad a cada libro con la URL de la portada del libro y agrega un `<img>` para cada libro en la página.
-Plus : cambia el estilo del libro dependiendo de si lo leiste o no.
+Plus : usa una lista para mostrar los libros.  
+Plus : agrega una propiedad a cada libro con la URL de la portada del libro y agrega un `<img>` para cada libro en la página.  
+Plus : cambia el estilo del libro dependiendo de si lo leiste o no.  
