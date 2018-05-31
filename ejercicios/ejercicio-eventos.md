@@ -1,0 +1,8 @@
+# Ejercicios: DOM Events
+
+Vamos a tomar como referencia el ejercicio [Quiénes Somos](ejercicios-dom.md) para agregarle algunas funcionalidades:
+
+1. Vamos a rediseñar un poco el sitio. La lista debe verse sin los dots, de manera que pueda verse como una tabla. Vamos a agregarle un borde a cada item, un padding, y al `<span>` le vamos a agregar un color de fondo para que se note que es el campo que vamos a editar luego :). Podemos sacarle el color rojo a las fuentes!
+2. Ahora que tenemos la lista, vamos a agregar un evento `contextmenu` sobre las etiquetas `<span>`. El objetivo es que, al hacer click derecho sobre cada uno, luego de consultar al usuario con un `confirm()`, se borre el texto del elemento.
+3. Tenemos que darle al usuario la opción de reingresar el dato. Por eso, en cada item de la lista vamos a agregar un `<button>` con la etiqueta **Modificar**. Sólo si el texto está vacío, debe darle la opción al usuario de ingresar un nuevo texto mediante un `prompt()`, de manera contraria informar con un `alert()` que no puede hacerlo.
+4. Nos gustaría poder seleccionar cada item de la lista. Vamos a usar el mismo evento `contextmenu` pero para cada `.list-item`. Cuando hagamos click derecho, ese elemento debe cambiar su color de fondo. Si ya lo tiene cambiado, debe volver a su color original. Cuidado! El evento no se puede disparar si hacemos click derecho dentro del `<span>` o dentro del `<button>`.
