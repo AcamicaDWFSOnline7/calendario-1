@@ -16,3 +16,5 @@ En esta sección encontrarás el enlace a los **proyectos extra** activos con lo
 
 * [Práctica de programación - Parte 1](ejercicios/00-intro-programacion-01.md)
 * [Bucles](ejercicios/ejercicio-bucles.md)
+* [DOM](ejercicios/ejercicios-dom.md)
+* [Eventos](ejercicios/ejercicio-eventos.md)
