@@ -2,13 +2,13 @@
 
 # Acámica DWFS Wiki | Sede Centro
 
-## 📅 Calendario | Semana 10
+## 📅 Calendario | Semana 12
 
-### 🔴 Martes 15 de Mayo
+### 🔴 Martes 29 de Mayo
 
 Estuvimos haciendo una revisión del **Proyecto 3: Rompecabezas**. Fueron pasando al proyector quienes habían resuelto cada uno de los puntos o tenían dudas, y en base a cada consigna fuimos abordando cada una de las posibles soluciones. Llegamos hasta el punto 3 de la guía 3.
 
-### 🔴 Jueves 17 de Mayo
+### 🔴 Jueves 31 de Mayo
 
 Continuamos con la revisión hasta completar todos los puntos de la guía. Luego hablamos acerca de por qué son necesarios los **objetos** en nuestras aplicaciones y vimos de qué manera podemos utilizarlos en JavaScript. Tomamos como ejemplo el **pago de servicios** del **Proyecto 2: Home Banking** y lo [mejoramos]() con el uso de objetos. Por último hicimos un [ejercicio en clase]() cuyo resultado nos llevó a una explicación sobre el uso de **funciones constructoras** en JavaScript.
 
