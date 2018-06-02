@@ -10,33 +10,62 @@ Continuamos viendo aspectos del **DOM**, específicamente su manipulación desde
 
 ### 🔴 Jueves 31 de Mayo
 
-Continuamos con la revisión hasta completar todos los puntos de la guía. Luego hablamos acerca de por qué son necesarios los **objetos** en nuestras aplicaciones y vimos de qué manera podemos utilizarlos en JavaScript. Tomamos como ejemplo el **pago de servicios** del **Proyecto 2: Home Banking** y lo [mejoramos]() con el uso de objetos. Por último hicimos un [ejercicio en clase]() cuyo resultado nos llevó a una explicación sobre el uso de **funciones constructoras** en JavaScript.
+Comenzamos resolviendo en clase los primeros tres ejercicios de [Programación](../ejercicios/00-intro-programacion-01.md), para luego continuar con los **Ejercicios de DOM** que habíamos comenzado el martes. Corregimos el 2 **Quiénes somos**. Luego comenzamos a ver algunos aspectos del manejo de eventos, específicamente sobre 
 
 ### 👩‍💻 Módulos y unidades relacionados
 
-* [**JavaScript: Objetos literales**](https://www.acamica.com/cursos/387/javascript-introduccion-objetos)
+* [**Manipulando al DOM**](https://www.acamica.com/cursos/454/manipulando-al-dom)
+* [**Eventos en JavaScript**](https://www.acamica.com/clases/10236/javascript-eventos/introduccion)
 
 ### 🕵️ Bibliografía recomendada
 
 #### Documentación técnica
 
-* 📄&nbsp;[**MDN | JavaScript object basics**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)⚠️&nbsp;Manipulación básica de objetos en JavaScript.
-* 📄&nbsp;[**MDN | Trabajando con Objetos**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Trabajando_con_objectos)⚠️&nbsp;Trabajando con ejemplos avanzados, incluyendo el uso de `this` y funciones constructoras.
-* 📄&nbsp;[**MDN | `window`**](https://developer.mozilla.org/es/docs/Web/API/Window)&nbsp;Un adelanto de lo que veremos en próximas clases, 
+**Métodos para interactuar con el DOM**&nbsp;⚠️
+
+* 📄&nbsp;[**MDN | `createElement`**](https://developer.mozilla.org/es/docs/Web/API/Document/createElement)
+* 📄&nbsp;[**MDN | `replaceChild`**](https://developer.mozilla.org/en-US/docs/Web/API/Node/replaceChild)
+* 📄&nbsp;[**MDN | `appendChild`**](https://developer.mozilla.org/es/docs/Web/API/Node/appendChild)
+* 📄&nbsp;[**MDN | `getElementsByTagName`**](https://developer.mozilla.org/es/docs/Web/API/Document/getElementsByTagName)
+* 📄&nbsp;[**MDN | `getElementsByClassName`**](https://developer.mozilla.org/es/docs/Web/API/Document/getElementsByClassName)
+* 📄&nbsp;[**MDN | `getElementById`**](https://developer.mozilla.org/es/docs/Web/API/Document/getElementById)
+* 📄&nbsp;[**MDN | `querySelector`**](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector)&nbsp;Este método nos permite acceder a cualquier elemento del DOM haciendo referencia con un selector, de la misma forma que lo usamos en CSS, como vimos en la [semana 1](semana-01.md).
+* 📄&nbsp;[**MDN | `window.getComputedStyle`**](https://developer.mozilla.org/es/docs/Web/API/Window/getComputedStyle)&nbsp;Este método nos permite saber qué estilos están efectivamente aplicados en un elemento HTML que recibe por argumento. No confundir con la propiedad [`style`](https://developer.mozilla.org/es/docs/Web/API/HTMLElement/style)!
+
+**Eventos**
+
+* 📄&nbsp;[**MDN | Referencia de Eventos**](https://developer.mozilla.org/es/docs/Web/Reference/Events)⚠️&nbsp;Referencia completa de los **eventos** a los que nos podemos suscribir en los **elementos HTML**.
+* 📄&nbsp;[**MDN | `addEventListener`**](https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener)⚠️&nbsp;Este método nos permite suscribirnos a los eventos de cualquier elemento HTML.
+* 📄&nbsp;[**MDN | `Event` Object **](https://developer.mozilla.org/es/docs/Web/API/Event)⚠️&nbsp;Cuando nos suscribimos a un evento, la función que utilizamos recibe un parámetro. Este es el **event object**, con métodos y propiedades que nos brindarán información y funcionalidades para completar las acciones con que deseamos reaccionar al evento.
+
+**Y además...**
+
+* 📄&nbsp;[**MDN | Funciones Flecha**](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions)⚠️&nbsp;Las funciones flecha o **arrow functions** son ni más ni menos que una nueva sintaxis para la declaración de funciones. Es probable que la veamos implementada cuando necesitamos declarar un **callback** o el **método de un objeto**. Esta es la referencia a su definición.
+
 
 #### Libros
 
-* 📚&nbsp;[**JavaScript Para Gatos - Una introducción para nuevos programadores**](https://jsparagatos.com)️️⚠️&nbsp;Este sencillo tutorial hace un repaso por las principales características de este lenguaje. Abarca los temas con los que hemos estado trabajando, incluído el manejo de [**objetos**](https://jsparagatos.com/#objects).
-* 📚&nbsp;[**You Don't Know JavaScript - *this* and Object Properties**](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md)&nbsp;[YDKJS](https://github.com/getify/You-Dont-Know-JS) es una magistral serie de libros sobre **JavaScript** escrita por [Kyle Simpson](https://twitter.com/getify?lang=es), uno de los grandes gurúes sobre este lenguaje. En esta ocasión compartimos el capítulo dedicado a **objetos**. **¡Atención!** No te asustes si no comprendes algunos conceptos, más adelante los iremos abordando. Por el momento, basta con que leas hasta el párrafo **Arrays** inclusive.
+* 📚&nbsp;[**Eloquent JavaScript**](https://eloquentjavascript.net/)️️⚠️&nbsp;Esta obra de [Marijn Haverbeke](https://twitter.com/marijnjh?lang=es) es una excelente reseña de las características de **JavaScript del lado del navegador**, recorriendo tanto sus aspectos básicos como los más avanzados (que veremos en semanas próximas), así como temas ligados a su rol dentro de los sitios web. Recomendamos en este caso los capítulos [14. The Document Object Model](https://eloquentjavascript.net/14_dom.html), [15. Handling Events](https://eloquentjavascript.net/15_event.html). Si se animan, también pueden profundizar lo que vimos de asincronismo en el capítulo [11. Asynchronous programming](https://eloquentjavascript.net/11_async.html) hasta la sección **callbacks** inclusive.
 
 #### Videos
 
-* 📺&nbsp;[**Qué son y cómo hacer Objetos**](https://www.youtube.com/watch?v=rf3riernYms)⚠️&nbsp;Repaso práctico de cómo manipular objetos en JavaScript, incluyendo el uso de **funciones constructoras**.
-* 📺&nbsp;[**Fundamentos de Programacion: Intercambio de variables**](https://www.youtube.com/watch?v=nOmmurKQCuo)️️️⚠️&nbsp;En este video una serie de alumnos explica con ejemplos gráficos cómo resolvemos algorítmicamente el intercambio de variables. **Súper recomendado**.
+* 📺&nbsp;[**Acámica | Asincronismo en JavaScript**](https://www.acamica.com/cursos/74/asincronismo-en-javascript/niveles)️️⚠️&nbsp;Este curso de la plataforma describe todas la formas de trabajar de manera asincrónica con JavaScript. Si bien estas distintas metodologías las veremos cuando trabajemos con NodeJS, la **Unidad 1: Introducción al asincronismo** da una descripción muy clara y concreta de qué es el asincronismo y cómo es que JavaScript trabaja de manera asincrónica.
+* 📺&nbsp;[**Estructuras de datos – 11. Introducción a los árboles**](https://www.youtube.com/watch?v=Qexq1k8LB6k)&nbsp;Hablamos del **árbol de nodos** como estructura para organizar el documento HTML, pero no se trata de una estructura creada para el Document Object Model sino que es un tipo de **estructura de datos** que tiene varias aplicaciones en informática. Este video hace un repaso por sus características. Piensen cómo se aplican sus principios a través de los métodos y propiedades del DOM.
+* 📺&nbsp;[**Philip Roberts: What the heck is the event loop anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ)&nbsp;Esta charla hace un repaso profundo por el **event loop**, con conceptos avanzados pero a la vez de manera muy clara. ¡La super recomendamos!
 
 #### Artículos
 
-* 🔖&nbsp;[**Librosweb.es | DOM**](http://librosweb.es/libro/javascript/capitulo_5/arbol_de_nodos.html)&nbsp;Esta sección del libro online **Introducción a JavaScript** hace un repaso interesante sobre el Document Object Model, específicamente sobre cómo el navegador genera el **árbol de nodos**.
+* 🔖&nbsp;[**Librosweb.es | Eventos**](http://librosweb.es/libro/javascript/capitulo_6.html)⚠️&nbsp;El capítulo de **introducción a JavaScript** sobre **eventos** hace un buen repaso sobre 
+* 🔖&nbsp;[**MDN | Modelo de concurrencia y loop de eventos**](https://developer.mozilla.org/es/docs/Web/JavaScript/EventLoop)&nbsp;Este artículo del MDN describe la forma en que el motor de JavaScript encola los eventos de manera asincrónica.
+* 🔖&nbsp;[**Entendiendo el Event Loop o Bucle de Eventos en Javascript**](https://medium.com/@davidjsmoreno/entendiendo-el-event-loop-o-bucle-de-eventos-en-javascript-b294d882fd14)&nbsp;Otro enfoque con un ejemplo práctico sobre JavaScript, les recomendamos primero ver el curso de Asincronismo en JavaScript.
+* 🔖&nbsp;[**Javascript: ¿Qué son, cómo usar y ejemplos del uso de callbacks?**](http://anexsoft.com/p/112/javascript-que-son-como-usar-y-ejemplos-del-uso-de-callbacks)&nbsp;Para el manejo de eventos comenzaremos a usar **callbacks**, este artículo hace un repaso por su implementación y da un ejemplo práctico con eventos.
+
+---
+
+### 🏋 Ejercicios
+
+* [DOM Events](../ejercicios/ejercicio-eventos.md)&nbsp;Vamos a ponernos a prueba con el manejo de eventos, utilizando el documento HTML que creamos al resolver el ejercicio **Quiénes somos** para agregarle interacción con el usuario.
+* []
 
 ----
 

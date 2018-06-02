@@ -25,9 +25,10 @@ Comenzamos la clase con una actividad grupal sobre el manejo de frustración y t
 * 📄&nbsp;[**MDN | `document`**](https://developer.mozilla.org/es/docs/Web/API/Document)⚠️&nbsp;Documentación del MDN sobre el objeto `document` con el detalle de sus **propiedades** y **métodos**, entre ellos, el `head` y el `body`.
 * 📄&nbsp;[**MDN | HTML Root Element**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)&nbsp;Todo árbol tiene una raíz, y en nuestro **árbol de nodos** es el elemento `<html>`. Este artículo del MDN lo explica.
 * 📄&nbsp;[**MDN | Element**](https://developer.mozilla.org/es/docs/Web/API/Element)&nbsp;Detalle de los principales métodos y propiedades que posee un elemento HTML.
-* 📄&nbsp;[**MDN | `window`**](https://developer.mozilla.org/es/docs/Web/API/Window)&nbsp;Hablamos de que el objeto `window` es el **objeto global** en nuestro contexto, que representa la ventana del navegador. Esta es la referencia en el MDN.
 * 📄&nbsp;[**MDN | `parentNode`**](https://developer.mozilla.org/es/docs/Web/API/ParentNode/children)&nbsp;Una de las propiedades que ofrece la API del DOM para navegar por el árbol de nodos. Nos devuelve la referencia al elemento padre de cualquier elemento HTML.
 * 📄&nbsp;[**MDN | `children`**](https://developer.mozilla.org/es/docs/Web/API/ParentNode/children)&nbsp;En este caso obtenemos los hijos de todos los elementos HTML, siempre que sean **element nodes**.
+* 📄&nbsp;[**MDN | `previousSibling`**](https://developer.mozilla.org/es/docs/Web/API/Node/previousSibling)&nbsp;Los elementos HTML pueden tener _hermanos_, es decir, otros elementos que son hijos del mismo nodo. Para acceder a su hermano anterior usamos esta propiedad.
+* 📄&nbsp;[**MDN | `nextSibling`**](https://developer.mozilla.org/es/docs/Web/API/Node/nextSibling)&nbsp;De esta manera accedemos al hermano siguiente.
 * 📄&nbsp;[**MDN | `NodeList`**](https://developer.mozilla.org/es/docs/Web/API/ParentNode/children)&nbsp;Cuando recibimos una lista de elementos, como en el caso anterior, el formato de esa lista es el de un **NodeList**.
 
 #### Libros

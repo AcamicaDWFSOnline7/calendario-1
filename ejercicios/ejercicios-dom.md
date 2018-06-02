@@ -16,21 +16,24 @@ Vamos a crear una seccion "Sobre Nosotros"
 ```
 <! DOCTYPE html>
 <html>
- <head>
-  <meta charset = "utf-8" />
-  <title> Acerca de mí </ title>
-</ head>
-<cuerpo>
-  <h1> Acerca de mí </ h1>
-  
-  <ul>
-    <li> Nombre: <span id = "nombre"> </ span>
-    <li> Apodo: <span id = "apodo"> </ span>
-    <li> Fecha de nacimiento: <span id = "fecha_nacimiento"> </ span>
-   </ ul>
-  
- </ body>
-</ html>
+
+  <head>
+    <meta charset = "utf-8" />
+    <title> Acerca de mí </ title>
+  </head>
+
+  <body>
+    <h1> Acerca de mí </ h1>
+
+    <ul>
+      <li> Nombre: <span id="nombre"></span></li>
+      <li> Apodo: <span id="apodo"></span></li>
+      <li> Fecha de nacimiento:<span id="fecha_nacimiento"></span></li>
+    </ul>
+
+  </body>
+
+</html>
 ```
   
 - Agrega una etiqueta script en la parte inferior.
