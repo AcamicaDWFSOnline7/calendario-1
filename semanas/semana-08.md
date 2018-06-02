@@ -4,7 +4,7 @@
 
 ## 📅 Calendario | Semana 8
 
-### Jueves 3 de Mayo
+### 🔴 Jueves 3 de Mayo
 
 Comenzamos trabajando en grupo con el **proyecto [Roles](/roles/roles.md) agregando [requerimientos](/roles/definicion-de-requerimientos.md)** como clientes. Una vez terminada esa etapa, pasamos a **[relevar el proyecto recibido](/roles/01-relevamiento-de-requerimientos.md)** por otro grupo, validar que los requerimientos hayan sido especificados correctamente, y comenzar a **detallar las tareas técnicas** que, según lo que analizamos, creemos que llevaremos adelante.
 
