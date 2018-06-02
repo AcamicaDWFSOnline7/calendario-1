@@ -4,13 +4,13 @@
 
 ## 📅 Calendario | Semana 9
 
-### Martes 8 de Mayo
+### 🔴 Martes 8 de Mayo
 
 El martes continuamos trabajando con la actividad de [maquetado](/roles/02-maquetado-de-grilla.md) del proyecto [Roles](/roles/roles.md). Durante la primera hora repasamos cómo hacer los primeros tres puntos con las herramientas que CSS nos provee como lenguaje de estilos.
 
 En la segunda hora trabajamos con el ejercicio [bucles](/ejercicios/ejercicio-bucles.md). Nadia y Ángel expusieron las distintas variantes que tenemos para utilizar la expresión `while` y así cumplir con la consigna del **menú** del ejercicio.
 
-### Jueves 10 de Mayo
+### 🔴 Jueves 10 de Mayo
 
 El jueves continuamos con el ejercicio de bucles, avanzando con las operaciones de **alta, baja y modificación de productos**. Para eso expusimos en clase cómo manipular **arrays en JavaScript**, además de algunas operaciones que nos permite hacer este **tipo de dato**.
 

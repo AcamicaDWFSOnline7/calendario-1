@@ -32,6 +32,11 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 * [**Semana 9**](semana-09.md) 📆 <small>8 y 10 de mayo</small>
 * [**Semana 10**](semana-10.md) 📆 <small>15 y 17 de mayo</small>
 
+### Proyecto 4 - PixelArt
+
+* [**Semana 11**](semana-11.md) 📆 <small>22 y 24 de mayo</small>
+* [**Semana 12**](semana-12.md) 📆 <small>29 y 31 de mayo</small>
+
 ----
 
 [Home](/readme.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
