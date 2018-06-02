@@ -31,6 +31,7 @@ Comenzamos resolviendo en clase los primeros tres ejercicios de [Programación](
 * 📄&nbsp;[**MDN | `getElementById`**](https://developer.mozilla.org/es/docs/Web/API/Document/getElementById)
 * 📄&nbsp;[**MDN | `querySelector`**](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector)&nbsp;Este método nos permite acceder a cualquier elemento del DOM haciendo referencia con un selector, de la misma forma que lo usamos en CSS, como vimos en la [semana 1](semana-01.md).
 * 📄&nbsp;[**MDN | `window.getComputedStyle`**](https://developer.mozilla.org/es/docs/Web/API/Window/getComputedStyle)&nbsp;Este método nos permite saber qué estilos están efectivamente aplicados en un elemento HTML que recibe por argumento. No confundir con la propiedad [`style`](https://developer.mozilla.org/es/docs/Web/API/HTMLElement/style)!
+* 📄&nbsp;[**MDN | `classList`**](https://developer.mozilla.org/es/docs/Web/API/Element/classList)&nbsp;Esta propiedad de los elementos HTML nos permite acceder y operar con todas las clases declaradas a través del atributo `class` como si fuera un array.
 
 **Eventos**
 
