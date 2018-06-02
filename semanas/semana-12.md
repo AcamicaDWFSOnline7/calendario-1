@@ -6,7 +6,7 @@
 
 ### 🔴 Martes 29 de Mayo
 
-Estuvimos haciendo una revisión del **Proyecto 3: Rompecabezas**. Fueron pasando al proyector quienes habían resuelto cada uno de los puntos o tenían dudas, y en base a cada consigna fuimos abordando cada una de las posibles soluciones. Llegamos hasta el punto 3 de la guía 3.
+Continuamos viendo aspectos del **DOM**, específicamente su manipulación desde JavaScript. Repasamos los diferentes métodos para acceder a los elementos en base a su **tag, id o class**, y algunos de los métodos para agregar, reemplazar o eliminarlos de nuestro documento HTML. En base a esto hicimos en grupos de a dos algunos [ejercicios](../ejercicios/ejercicios-dom.md) para practicar estos conceptos.
 
 ### 🔴 Jueves 31 de Mayo
 
@@ -34,15 +34,9 @@ Continuamos con la revisión hasta completar todos los puntos de la guía. Luego
 * 📺&nbsp;[**Qué son y cómo hacer Objetos**](https://www.youtube.com/watch?v=rf3riernYms)⚠️&nbsp;Repaso práctico de cómo manipular objetos en JavaScript, incluyendo el uso de **funciones constructoras**.
 * 📺&nbsp;[**Fundamentos de Programacion: Intercambio de variables**](https://www.youtube.com/watch?v=nOmmurKQCuo)️️️⚠️&nbsp;En este video una serie de alumnos explica con ejemplos gráficos cómo resolvemos algorítmicamente el intercambio de variables. **Súper recomendado**.
 
-----
+#### Artículos
 
-### 🤓 Soft Skills
-
-Les compartimos algunos artículos relacionados a la charla que surgió el martes sobre nuestro progreso y dificultades que se han presentado.
-
-* [Don't learn to code. Learn to think.](https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/)️️⚠️
-* [7 adversidades que tienes que superar en tus inicios como programador](https://www.campusmvp.es/recursos/post/7-adversidades-que-tienes-que-superar-en-tus-inicios-como-programador.aspx)
-* [6 consejos para que tu vida como programador sea más fácil](http://blog.desafiolatam.com/6-consejos-para-que-tu-vida-como-programador-sea-mas-facil/)
+* 🔖&nbsp;[**Librosweb.es | DOM**](http://librosweb.es/libro/javascript/capitulo_5/arbol_de_nodos.html)&nbsp;Esta sección del libro online **Introducción a JavaScript** hace un repaso interesante sobre el Document Object Model, específicamente sobre cómo el navegador genera el **árbol de nodos**.
 
 ----
 
