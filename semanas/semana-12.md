@@ -37,7 +37,7 @@ Comenzamos resolviendo en clase los primeros tres ejercicios de [Programación](
 
 * 📄&nbsp;[**MDN | Referencia de Eventos**](https://developer.mozilla.org/es/docs/Web/Reference/Events)⚠️&nbsp;Referencia completa de los **eventos** a los que nos podemos suscribir en los **elementos HTML**.
 * 📄&nbsp;[**MDN | `addEventListener`**](https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener)⚠️&nbsp;Este método nos permite suscribirnos a los eventos de cualquier elemento HTML.
-* 📄&nbsp;[**MDN | `Event` Object **](https://developer.mozilla.org/es/docs/Web/API/Event)⚠️&nbsp;Cuando nos suscribimos a un evento, la función que utilizamos recibe un parámetro. Este es el **event object**, con métodos y propiedades que nos brindarán información y funcionalidades para completar las acciones con que deseamos reaccionar al evento.
+* 📄&nbsp;[**MDN | `Event` Object**](https://developer.mozilla.org/es/docs/Web/API/Event)⚠️&nbsp;Cuando nos suscribimos a un evento, la función que utilizamos recibe un parámetro. Este es el **event object**, con métodos y propiedades que nos brindarán información y funcionalidades para completar las acciones con que deseamos reaccionar al evento.
 
 **Y además...**
 
@@ -65,9 +65,7 @@ Comenzamos resolviendo en clase los primeros tres ejercicios de [Programación](
 
 ### 🏋 Ejercicios
 
-* [DOM Events](../ejercicios/ejercicio-eventos.md)&nbsp;Vamos a ponernos a prueba con el manejo de eventos, utilizando el documento HTML que creamos al resolver el ejercicio **Quiénes somos** para agregarle interacción con el usuario.
-* []
-
+* [**DOM Events**](../ejercicios/ejercicio-eventos.md)&nbsp;Vamos a ponernos a prueba con el manejo de eventos, utilizando el documento HTML que creamos al resolver el ejercicio **Quiénes somos** para agregarle interacción con el usuario.
 ----
 
 [Home](/readme.md) - [Calendario](/semanas/calendario.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
