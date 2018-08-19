@@ -37,6 +37,10 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 * [**Semana 11**](semana-11.md) 📆 <small>22 y 24 de mayo</small>
 * [**Semana 12**](semana-12.md) 📆 <small>29 y 31 de mayo</small>
 
+### Proyecto 7 - Encuestados
+
+* [**Semana 21**](semana-21.md) 📆 <small>14 y 16 de agosto</small>
+
 ----
 
 [Home](/readme.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
