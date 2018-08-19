@@ -39,6 +39,8 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 
 ### Proyecto 7 - Encuestados
 
+* [**Semana 19**](semana-19.md) 📆 <small>31 de julio y 2 de agosto</small>
+* [**Semana 20**](semana-20.md) 📆 <small>7 y 9 de agosto</small>
 * [**Semana 21**](semana-21.md) 📆 <small>14 y 16 de agosto</small>
 
 ----
