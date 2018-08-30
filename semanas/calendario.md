@@ -37,8 +37,13 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 * [**Semana 11**](semana-11.md) 📆 <small>22 y 24 de mayo</small>
 * [**Semana 12**](semana-12.md) 📆 <small>29 y 31 de mayo</small>
 
+### Proyecto 5 - Ciudad Zombie
+
+* [**Semana 17**](semana-17.md) 📆 <small>3 y 5 de julio</small>
+
 ### Proyecto 7 - Encuestados
 
+* [**Semana 18**](semana-18.md) 📆 <small>24 y 26 de julio</small>
 * [**Semana 19**](semana-19.md) 📆 <small>31 de julio y 2 de agosto</small>
 * [**Semana 20**](semana-20.md) 📆 <small>7 y 9 de agosto</small>
 * [**Semana 21**](semana-21.md) 📆 <small>14 y 16 de agosto</small>
