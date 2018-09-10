@@ -15,7 +15,7 @@ Comenzamos la primer hora con la charla de [Ricardo Aiello](https://www.linkedin
 ### Material de charlas
 
 * [**Eva Ferreira: Responsiveando**](https://acamica-julio.netlify.com/)
-* [**Ricardo Aiello: Introducción a la Ingeniería de Requerimientos**](https://mail.google.com/mail/u/0/#search/ingenieria+de+requeri/FMfcgxvxBPLLDSQBBQWXknzXbVgZfdWM?projector=1&messagePartId=0.1)
+* [**Ricardo Aiello: Introducción a la Ingeniería de Requerimientos**](/material/introduccion-ingenieria-requerimientos-aiello-ricardo.pdf)
 
 ----
 
