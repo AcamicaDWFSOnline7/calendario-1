@@ -51,7 +51,7 @@ Pista: Que metodo del array nos sirve para agregar elementos?
 Plus: Hacer que no se pueda agregar dos veces la misma URL.
 
 
-## Paso 4: Botón de favoritosPaso 5: Eliminar favorito.
+## Paso 5: Eliminar favorito.
 
 Finalmente, vamos a agregar la funcionalidad para borrar un favorito. Como se te ocurre que podemos hacerlo?
 
