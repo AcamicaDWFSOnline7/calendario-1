@@ -18,3 +18,4 @@ En esta sección encontrarás el enlace a los **proyectos extra** activos con lo
 * [Bucles](ejercicios/ejercicio-bucles.md)
 * [DOM](ejercicios/ejercicios-dom.md)
 * [Eventos](ejercicios/ejercicio-eventos.md)
+* [HTTP y API](ejercicios/ejercicio-http-api.md)
