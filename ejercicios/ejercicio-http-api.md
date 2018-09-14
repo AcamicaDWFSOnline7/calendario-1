@@ -11,27 +11,21 @@ Pista: Para los botones, podes usar iconos como material icons o font awesome.
 Plus: Usa flexbox, y hace que sea responsive.
 
 
-## Paso 2: Traemos imágens de la API
+## Paso 2: Traemos imágenes de la API
 
 En un principio, tendremos que hacerle una peticion ajax a la siguiente api:
-http://thecatapi.com/api/images/get?size=small&
+https://api.thecatapi.com/v1/images/search
 
 y luego insertarla en el div de la imagen principal a traves de javascript o jquery, como mas te guste.
+
+Pista: La Api, nos devuelve un json... que propiedad de ese json podemos usar para mostrar la imagen?
 
 Ya tenemos una imagen de gatito! Si refrescamos vamos a ver una imagen nueva cada vez que se cargue la página.
 
 
 ## Paso 3: NEXT
 
-Para cambiar de una imagen a otra de manera más óptima vamos a crear un boton para "next". 
-
-Queremos algo que cambie la url de las imágenes en cada caso.
-Si a la URL de la api, le concatenamos un numero, esta va a traer la imagen correspondiente a ese numero. 
-La idea es que cuando hacemos click, ese numero que concatenamos cambie asi traemos fotos distintas cada vez que presionamos el boton.
-
-Seria algo asi como: 'http://thecatapi.com/api/images/get?size=small&' + numero
-
-Pista: Podes usar un contador para que cada vez que clickees el numero cambie.
+Desarrollar la funcionalidad que se va a ejecutar al presionar el boton, la idea es que cada vez que lo presionemos llamemos de nuevo a la API para que nos traiga otras imagenes!.
 
 
 ## Paso 4: Botón de favoritos
